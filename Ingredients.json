@@ -1,0 +1,22 @@
+{
+  "Ingredients":[
+    {
+      "img":"https://images.uesp.net/8/82/MW-icon-ingredient-Alit_Hide.png",
+      "name":"Alit Hide",
+      "loc":"Found by killing Alits",
+      "eff1":"Drain Intelligence",
+      "eff2":"Resist Poison",
+      "eff3":"Telekenesis",
+      "eff4":"Detect Animal"
+    },
+    {
+      "img":"https://images.uesp.net/2/20/MW-icon-ingredient-Ampoule_Pod.png",
+      "name":"Ampoule Pod",
+      "loc":"Common growing in swamps in the Bitter Coast region; one of two possible outputs of the draggle-tail plant (the other is the Coda Flower)",
+      "eff1":"Water Walking",
+      "eff2":"Paralyze",
+      "eff3":"Detect Animal",
+      "eff4":"Drain Willpower"
+    }
+  ]
+}
